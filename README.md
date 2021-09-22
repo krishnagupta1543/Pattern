@@ -3,7 +3,7 @@
 </head>
 <boby>
 <h2>
-  <div style= "backeground color:black">
+  <div style="background-color:darksalmon; color: crimson; padding: 20px;">
 PATTERN PROGRAM IN JAVA 
   </div>
 </h2>
