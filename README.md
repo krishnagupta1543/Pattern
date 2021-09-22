@@ -1,7 +1,5 @@
 <html>
 <head>
-<title>
-</title>
 </head>
 <boby>
 <h2>
